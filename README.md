@@ -74,7 +74,9 @@ python translator_gui.py
 
 ## Screenshots
 
-![Hauptfenster](screenshots/main_window.png)
+
+![Hauptfenster](https://github.com/kruemmel-python/Text--bersetzer/assets/169469747/e18542a1-36cb-4849-af85-6452ff34cec5)
+
 
 ## Lizenz
 
